@@ -1,3 +1,0 @@
-[![kmnkit's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmnkit)](https://github.com/kmnkit/github-readme-stats)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/sungwoong-kang-0588341ba/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:k900327s@gmail.com)
